@@ -1,5 +1,6 @@
 hubot-suggest
 =============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hassaku/hubot-suggest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Enables hubot to suggest commands when not found.
 
